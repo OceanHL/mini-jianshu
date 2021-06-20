@@ -1,0 +1,93 @@
+{
+  "id": "2563193",
+  "name": "简书",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18781871",
+      "name": "上",
+      "font_class": "shang",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "6966909",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "106851",
+      "name": "心",
+      "font_class": "bqxin",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "3216143",
+      "name": "消息",
+      "font_class": "icon--",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "3872049",
+      "name": "热度",
+      "font_class": "redu",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "6204100",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "401103",
+      "name": "spin",
+      "font_class": "spin",
+      "unicode": "e851",
+      "unicode_decimal": 59473
+    },
+    {
+      "icon_id": "49851",
+      "name": "放大镜",
+      "font_class": "41",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "4608983",
+      "name": "发现，指南针",
+      "font_class": "faxianzhinanzhen",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14930333",
+      "name": "Pens羽毛笔",
+      "font_class": "Pensyumaobi",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "20797218",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    }
+  ]
+}
